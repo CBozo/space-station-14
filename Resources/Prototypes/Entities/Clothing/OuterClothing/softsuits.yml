@@ -72,6 +72,8 @@
     - SuitEVA
     - MonkeyWearable
     - WhitelistChameleon
+  - type: TemperatureProtection
+    coefficient: 0.5
 
 #NTSRA Voidsuit / Ancient Voidsuit
 - type: entity
